@@ -3,8 +3,6 @@
 </div>
 <img src="https://i.imgur.com/jbnooLr.png">
 
-[![GitHub followers](https://img.shields.io/github/followers/maverickappliedlogic?style=social)](https://github.com/MaverickAppliedLogic)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 <h3> This is the space where I will establish the first point of contact for my social networks, software projects, and, perhaps in the future, tech solutions that merge software with physical products. The project is currently in development, progressing slowly but steadily, step by step. Follow me to stay close to the journey of this creation.</h3>
 
 ## About Me
