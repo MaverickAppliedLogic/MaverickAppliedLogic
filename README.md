@@ -13,12 +13,17 @@ Experienced in:
 📲 Mobile App Development
 
 Tech Stack:
-- Java
-- Kotlin
-- Python
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="48" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="48" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="48" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="48" width="48" />
+</p>
+ 
 Languages:
-- Spanish (Mother Language)
+- Spanish (Mother Tongue)
 - English (B1)
 - German (A1)
 
