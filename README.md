@@ -14,7 +14,7 @@ Experienced in:
 
 Tech Stack:
 - Java
-- ![Static Badge](https://img.shields.io/badge/Kotlin-C9B6E4?style=flat-square&logo=kotlin&logoColor=%237F52FF)
+- Kotlin
 - Python
 
 Languages:
@@ -22,12 +22,16 @@ Languages:
 - English (B1)
 - German (A1)
 
+## Software Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaverickAppliedLogic&repo=TailyCare&theme=holi)](https://github.com/MaverickAppliedLogic/TailyCare)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center" >
 <a href="https://github.com/MaverickAppliedLogic">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaverickAppliedLogic&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaverickAppliedLogic&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaverickAppliedLogic&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaverickAppliedLogic&layout=compact&langs_count=8&theme=algolia" height="180em"/>
 </a>
 </p>
 
