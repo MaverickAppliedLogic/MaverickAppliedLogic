@@ -24,7 +24,7 @@ Languages:
 
 ## Software Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaverickAppliedLogic&repo=TaiyCare&theme=holi)](https://github.com/MaverickAppliedLogic/TailyCare)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaverickAppliedLogic&repo=TailyCare&theme=holi)](https://github.com/MaverickAppliedLogic/TailyCare)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
