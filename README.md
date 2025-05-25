@@ -30,8 +30,8 @@ Languages:
 
 <p align="center" >
 <a href="https://github.com/MaverickAppliedLogic">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaverickAppliedLogic&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaverickAppliedLogic&layout=compact&langs_count=8&theme=algolia" height="180em"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaverickAppliedLogic&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="150em"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaverickAppliedLogic&layout=compact&langs_count=8&theme=algolia" height="150em"/>
 </a>
 </p>
 
