@@ -22,11 +22,9 @@ Languages:
 - English (B1)
 - German (A1)
 
-<br>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p >
 <a href="https://github.com/MaverickAppliedLogic">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaverickAppliedLogic&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaverickAppliedLogic&layout=compact&langs_count=8&theme=algolia"/>
